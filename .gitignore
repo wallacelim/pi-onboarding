@@ -1,0 +1,12 @@
+node_modules
+
+.DS_Store
+
+.idea/*
+
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+terraform.tfvars
+*.tfstate*
