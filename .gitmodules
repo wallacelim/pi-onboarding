@@ -1,0 +1,3 @@
+[submodule "phase-2-gitops/fleet-infra"]
+	path = phase-2-gitops/fleet-infra
+	url = https://github.com/wallacelim/fleet-infra
