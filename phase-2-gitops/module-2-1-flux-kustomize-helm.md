@@ -43,8 +43,9 @@ Mastery checks
 
 ## Resources
 
-- [ ] [Get Started with Flux](https://fluxcd.io/flux/get-started/) — Bootstrap Flux and deploy a sample app GitOps-style.
-- [ ] [Flux Kustomization](https://fluxcd.io/flux/components/kustomize/kustomizations/) — How Flux reconciles Kustomize overlays.
-- [ ] [Flux HelmRelease](https://fluxcd.io/flux/components/helm/helmreleases/) — Declarative Helm releases via Flux.
-- [ ] [Declarative Management of Kubernetes Objects Using Kustomize](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization) — Core Kustomize workflow with `kubectl`.
-- [ ] [Helm Quickstart Guide](https://helm.sh/docs/v3/intro/quickstart) — Install Helm and ship a first chart.
+- [x] [Get Started with Flux](https://fluxcd.io/flux/get-started/) — Bootstrap Flux and deploy a sample app GitOps-style.
+- [x] [Flux from End-to-End](https://fluxcd.io/flux/flux-e2e/) - Flow of data through Flux, from end to end.
+- [x] [Flux Kustomization](https://fluxcd.io/flux/components/kustomize/kustomizations/) — How Flux reconciles Kustomize overlays.
+- [x] [Flux HelmRelease](https://fluxcd.io/flux/components/helm/helmreleases/) — Declarative Helm releases via Flux.
+- [x] [Declarative Management of Kubernetes Objects Using Kustomize](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/kustomization) — Core Kustomize workflow with `kubectl`.
+- [x] [Helm Quickstart Guide](https://helm.sh/docs/v3/intro/quickstart) — Install Helm and ship a first chart.
