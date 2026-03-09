@@ -42,9 +42,9 @@ Mastery checks
 
 ## Resources
 
-- [ ] [Collector overview](https://opentelemetry.io/docs/collector/) — Architecture, objectives, and component model.
-- [ ] [Collector configuration](https://opentelemetry.io/docs/collector/configuration/) — Receivers, processors, exporters, and pipeline wiring.
-- [ ] [Install the Collector with Kubernetes](https://opentelemetry.io/docs/collector/install/kubernetes/) — Reference DaemonSet + gateway deployment pattern.
+- [x] [Collector overview](https://opentelemetry.io/docs/collector/) — Architecture, objectives, and component model.
+- [x] [Collector configuration](https://opentelemetry.io/docs/collector/configuration/) — Receivers, processors, exporters, and pipeline wiring.
+- [ ] [OpenTelemetry: Kubernetes - Getting Started](https://opentelemetry.io/docs/platforms/kubernetes/getting-started/)
 - [ ] [OpenTelemetry Collector and Kubernetes](https://opentelemetry.io/docs/platforms/kubernetes/collector/) — Kubernetes-specific deployment and scaling guidance.
 
 ## Further reading

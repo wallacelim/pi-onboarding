@@ -43,8 +43,9 @@ Mastery checks
 
 ## Resources
 
-- [ ] [ClickHouse OSS quick start](https://clickhouse.com/docs/getting-started/quick-start/oss) — Local install, first table, and initial queries.
-- [ ] [ClickHouse Cloud quick start](https://clickhouse.com/docs/getting-started/quick-start/cloud) — Managed service setup and first queries.
+- [x] [ClickHouse OSS quick start](https://clickhouse.com/docs/getting-started/quick-start/oss) — Local install, first table, and initial queries.
+- [x] [ClickHouse Cloud quick start](https://clickhouse.com/docs/getting-started/quick-start/cloud) — Managed service setup and first queries.
+- [x] [Core Concepts](https://clickhouse.com/docs/managing-data/core-concepts)
 - [ ] [Choosing a Primary Key](https://clickhouse.com/docs/best-practices/choosing-a-primary-key) — Ordering key choices that drive query performance.
 - [ ] [Use Materialized Views](https://clickhouse.com/docs/best-practices/use-materialized-views) — Rollups and pre-aggregation patterns.
 - [ ] [ClickHouse Operator overview](https://clickhouse.com/docs/clickhouse-operator/overview) — Kubernetes deployment path for ClickHouse.

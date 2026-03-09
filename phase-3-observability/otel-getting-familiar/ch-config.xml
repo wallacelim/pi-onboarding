@@ -1,0 +1,6 @@
+<clickhouse>
+    <path>ch-data/</path>
+    <tmp_path>ch-data/tmp/</tmp_path>
+    <user_files_path>ch-data/user_files/</user_files_path>
+    <format_schema_path>ch-data/format_schemas/</format_schema_path>
+</clickhouse>

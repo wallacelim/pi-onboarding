@@ -1,0 +1,33 @@
+receivers:
+  otlp:
+    protocols:
+      grpc:
+        endpoint: 0.0.0.0:4317
+      http:
+        endpoint: 0.0.0.0:4318
+
+exporters:
+  debug:
+    verbosity: detailed
+  clickhouse:
+    endpoint: ${CLICKHOUSE_ENDPOINT}
+    username: ${CLICKHOUSE_USERNAME}
+    password: ${CLICKHOUSE_PASSWORD}
+    database: otel
+    traces_table_name: otel_traces
+    metrics_table_name: otel_metrics
+    logs_table_name: otel_logs
+    ttl: 72h
+    create_schema: true
+
+service:
+  pipelines:
+    traces:
+      receivers: [otlp]
+      exporters: [clickhouse, debug]
+    metrics:
+      receivers: [otlp]
+      exporters: [clickhouse, debug]
+    logs:
+      receivers: [otlp]
+      exporters: [clickhouse, debug]
