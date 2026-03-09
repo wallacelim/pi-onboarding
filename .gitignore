@@ -4,9 +4,19 @@ node_modules
 
 .idea/*
 
+.env*
+
 # Terraform
 .terraform/
 terraform.tfstate
 terraform.tfstate.backup
 terraform.tfvars
 *.tfstate*
+
+# Python
+__pycache__/
+*.pyc
+
+# ClickHouse local data
+clickhouse
+ch-data/

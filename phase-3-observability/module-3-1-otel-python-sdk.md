@@ -44,8 +44,8 @@ Mastery checks
 
 ## Resources
 
-- [ ] [Getting Started (Python)](https://opentelemetry.io/docs/languages/python/getting-started/) — Quick setup for traces, metrics, and logs in Python.
-- [ ] [Manual Instrumentation (Python)](https://opentelemetry.io/docs/languages/python/instrumentation/) — Core API/SDK usage for custom metrics.
-- [ ] [Python Exporters](https://opentelemetry.io/docs/languages/python/exporters/) — Exporter setup and OTLP guidance.
-- [ ] [OTLP Specification](https://opentelemetry.io/docs/specs/otlp/) — Protocol details for OTLP export.
-- [ ] [Metrics API Spec](https://opentelemetry.io/docs/specs/otel/metrics/api/) — Instrument semantics and API contracts.
+- [x] [Getting Started (Python)](https://opentelemetry.io/docs/languages/python/getting-started/) — Quick setup for traces, metrics, and logs in Python.
+- [x] [Manual Instrumentation (Python)](https://opentelemetry.io/docs/languages/python/instrumentation/) — Core API/SDK usage for custom metrics.
+- [x] [Python Exporters](https://opentelemetry.io/docs/languages/python/exporters/) — Exporter setup and OTLP guidance.
+- [x] [OTLP Specification](https://opentelemetry.io/docs/specs/otlp/) — Protocol details for OTLP export.
+- [x] [Metrics API Spec](https://opentelemetry.io/docs/specs/otel/metrics/api/) — Instrument semantics and API contracts.
